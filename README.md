@@ -1,2 +1,1 @@
-# jhpiego-redesign
-Redesign of Jhpiego.org
+# sandbox.jhpiego.org
